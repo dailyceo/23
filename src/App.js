@@ -270,6 +270,20 @@ function App() {
             <s.SpacerLarge />
 
 
+            <s.TextDescription
+              style={{
+                textAlign: "center",
+                fontSize: 50,
+                //fontWeight: "bold",
+                color: "var(--primary)",
+              }}
+            >
+              Feast your eyes with KANDOES
+            </s.TextDescription>
+            <s.SpacerLarge />
+            <s.SpacerLarge />
+
+
 
 
 
